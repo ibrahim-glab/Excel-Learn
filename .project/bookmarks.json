@@ -1,0 +1,15 @@
+{
+  "Value": {
+    "Main.xaml": [
+      {
+        "IsEnabled": true,
+        "Annotation": null,
+        "Id": "e031c1dd-78d9-4fae-a7ac-51479cf1c295",
+        "ActivityIdRef": "Sequence_5",
+        "ActivityId": "1.12",
+        "ActivityName": "Do",
+        "IsTransient": false
+      }
+    ]
+  }
+}
